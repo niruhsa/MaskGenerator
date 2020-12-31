@@ -1,0 +1,5 @@
+data/dataset
+data/model
+data/out
+*/**/__pycache__
+weights/

@@ -1,0 +1,10 @@
+tqdm
+opencv-python
+numpy
+tensorflow-gpu
+dlib
+PIL
+argparse
+imutils
+scikit-learn
+skimage
